@@ -1,0 +1,28 @@
+.addCharacterForm {
+	background-color: darkcyan;
+	padding: 10px 0;
+	border: 1px solid black;
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	justify-content: center;
+	margin: 10px auto;
+	align-items: center;
+	gap: 12px;
+}
+
+.addCharacterForm button {
+	width: 225px;
+	height: 23px;
+}
+
+.addCharacterForm label {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 13px;
+}
+
+.addCharacterForm input {
+	border: 1px solid black;
+}
