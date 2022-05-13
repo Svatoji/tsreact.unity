@@ -2,13 +2,13 @@
 	background-color: darkcyan;
 	padding: 10px 0;
 	border: 1px solid black;
-  display: flex;
-  flex-direction: column;
-  width: 300px;
-  justify-content: center;
-  margin: 10px auto;
-  align-items: center;
-  gap: 12px;
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	justify-content: center;
+	margin: 10px auto;
+	align-items: center;
+	gap: 12px;
 }
 
 .addCharacterForm button {
